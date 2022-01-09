@@ -797,61 +797,7 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-size: 25px;
 }
 
-.mainft{
-    
-    color:#fff;
 
-    width: 100%;
-    margin-top: 130px;
-    background: linear-gradient(to bottom, rgb(37, 38, 37) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0, 0, 0, 0.82) 120%) #989898;
-    background-blend-mode: multiply,multiply;
-}
-
-.mainft h2{
-    text-align: center;
-    font-family: 'AdorshoLipi', sans-serif;
-    padding-top: 15px;
-    color:rgb(116, 177, 92);
-}
-
-.mainft h5{
-    font-family: 'AdorshoLipi', sans-serif;
-    text-align: center;
-}
-
-.mainft ul{
-    margin: 0 auto;
-    text-align: center;
-    list-style-type: none;
-}
-
-
-.mainft ul .facebook{
-    
-    display:inline-block;
-    width: 40px;
-    height: 40px;
-    margin-left: 15px;
-
-    background: url(../icon/fb_hv.png) no-repeat;
-}
-
-
-
-.mainft ul .facebook:hover{
-    background: url(../icon/fb01.png) no-repeat;
-}
-
-.mainft p{
-    text-align: center;
-
-    font-family: 'Bangla', sans-serif;
-}
-
-
-.mainft p img{
-    width: 20px;
-}
 
 
 
@@ -882,6 +828,16 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
 .selectnav{
     display: none;
+}
+
+footer{
+    margin-top:100px ;
+    text-align: center;
+    background-color: #0cd1a0;
+}
+
+footer h1{
+    color:#ffff;
 }
 
 

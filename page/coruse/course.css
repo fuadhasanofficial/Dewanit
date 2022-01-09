@@ -1,0 +1,49 @@
+
+
+
+
+
+.intro{
+    font-family: 'Bangla', sans-serif;  
+}
+ .cr-main{
+     background-color:grey;
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 15px;
+ }
+
+ .cr-main div{
+     padding: 20px;
+     flex-basis: 32%;
+     margin-bottom: 10px;
+ }
+
+
+ .cr1{
+    font-family: 'Bangla', sans-serif;
+    background-color: honeydew;
+     
+}
+ 
+ .cr2{
+    font-family: 'Bangla', sans-serif;  
+    background-color: hotpink;
+     
+}
+ 
+ .cr3{
+    font-family: 'Bangla', sans-serif; 
+    background-color: indigo;
+      
+}
+ 
+
+
+
+
+
+
+
+
+

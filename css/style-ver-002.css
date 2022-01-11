@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Luxurious+Roman&family=Open+Sans+Condensed:wght@300&family=Playfair+Display:wght@700&family=Poppins:wght@300&display=swap');
 
 *{margin:0; padding: 0;}
 
@@ -833,11 +834,12 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 footer{
     margin-top:100px ;
     text-align: center;
-    background-color: #0cd1a0;
+    background-color: #0fcac1df;
 }
 
 footer h1{
     color:#ffff;
+    font-family: 'Poppins', sans-serif;
 }
 
 
